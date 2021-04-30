@@ -1,0 +1,7 @@
+.sass-cache
+literallycanvas/
+*.sublime-workspace
+node_modules/
+core/
+*.log
+package-lock.json
